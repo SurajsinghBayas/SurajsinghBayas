@@ -18,3 +18,23 @@ What I’m Working On
 My Skills
 
 Languages & Tools
+
+My Toolbox
+
+	•	AI Frameworks: TensorFlow, PyTorch, scikit-learn
+	•	Cloud Platforms: Google Cloud, AWS, Azure
+	•	Front-End: React, UI/UX Prototyping with Figma
+ GitHub Stats
+
+ Badges & Achievements
+
+	•	🏆 Contributed to Hacktoberfest and GDG events.
+	•	🌟 Working on impactful open-source projects.
+	•	💬 Engaging with communities to mentor and learn collaboratively.
+
+Let’s Connect
+	•	LinkedIn
+	•	GitHub
+	•	Twitter
+
+📫 Reach out to me: your.email@domain.com
