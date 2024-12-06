@@ -37,4 +37,4 @@ Let’s Connect
 	•	GitHub
 	•	Twitter
 
-📫 Reach out to me: your.email@domain.com
+📫 Reach out to me: surajyou45@gmail.com
