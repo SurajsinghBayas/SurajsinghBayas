@@ -33,8 +33,10 @@ My Toolbox
 	•	💬 Engaging with communities to mentor and learn collaboratively.
 
 Let’s Connect
-	•	LinkedIn
-	•	GitHub
-	•	Twitter
-
+<html>
+	<ul>
+	<li><a href="https://www.linkedin.com/in/suraj-bayas-08a68020a/"> LinkedIn </a>
+	</li></ul>
+	<br>
+	</html>
 📫 Reach out to me: surajyou45@gmail.com
