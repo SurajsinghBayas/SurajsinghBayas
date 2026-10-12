@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Bayas</h1>
 <h3 align="center">AI & ML Engineer | AI Intern</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsinghbayas&label=Profile%20views&color=0e75b6&style=flat" alt="surajsinghbayas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SurajsinghBayas&label=Profile%20views&color=0e75b6&style=flat" alt="surajsinghbayas" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://surajbayas.me](https://surajbayas.me)
